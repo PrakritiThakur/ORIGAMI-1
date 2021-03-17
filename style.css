@@ -1,0 +1,24 @@
+h1{
+    color: rgb(87, 27, 6);
+}
+.header{
+    background:darksalmon;
+}
+.Origami{
+    /*display: flex;*/
+    justify-content: center
+    /*flex-wrap: wrap;*/
+}
+body{
+    background-color: chocolate;
+}
+p,h2,li,ul{
+    color: cornsilk;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+ }
+/*p,h2{
+    justify-content: space-evenly;
+}*/
